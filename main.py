@@ -4,4 +4,4 @@ def close10(x, y):
     elif (10 - x) > (10 - y):
         return abs(y)
     else:
-        return abs(0)
+        return 0
